@@ -1,4 +1,4 @@
-  <h3 align="center">A Ecom Price Tracking Application</h3>
+  <h3 align="center">A Nike Landing page</h3>
 
 </div>
 
