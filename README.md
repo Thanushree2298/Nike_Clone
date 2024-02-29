@@ -19,6 +19,7 @@ Build a stunning Nike landing page to create a visually impressive website.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 -Tailwind CSS
+
 -React.js
 
 ## <a name="features">🔋 Features</a>
